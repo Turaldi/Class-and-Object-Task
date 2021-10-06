@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.exe
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.deps.json
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.runtimeconfig.json
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.dll
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\bin\Debug\netcoreapp3.1\Class and Object task.pdb
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.dll
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.pdb
+C:\Users\MSI\source\repos\Class and Object task\Class and Object task\obj\Debug\netcoreapp3.1\Class and Object task.genruntimeconfig.cache
